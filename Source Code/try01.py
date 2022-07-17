@@ -1,3 +1,3 @@
-quests = ['Jim', 'Jack', 'Joe']
+quests = ['Jim', 'Jack', 'Joe', 'Jane']
 for i in range(len(quests)):
-    print(str(i+1) + '. ' + quests[i])
+    print(str(i+1) + '. ' + quests[i])ß
