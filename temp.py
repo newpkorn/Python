@@ -14,3 +14,5 @@ def numinput(title, prompt, default=None, minval=None, maxval=None,
             title, prompt, default=default, minval=minval, maxval=maxval,
             nullable=nullable, askint=askint)
     return ans 
+
+numinput()
