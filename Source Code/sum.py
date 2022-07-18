@@ -1,8 +1,14 @@
+import numbers
+
+
 def sumation_1(n):
 
     sum = 0
+    number = []
     for i in range(1, n+1):
         sum+=i
+        number.append(i)
+    print(number)
     return sum
 
 
